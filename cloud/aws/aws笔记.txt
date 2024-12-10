@@ -1,3 +1,0 @@
-amazon-linux-extras
-
-需要重新看的  lamdba   s3
